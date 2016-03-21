@@ -1,0 +1,52 @@
+---
+- 30C3 Hamburg:
+    _slug: 30c3-hamburg
+    subtitle: Chaos Communication Congress 2014
+    description: A geodesic dome in the assembly hall with our friends at the 30C3.
+      Live interactive audio visual performance with visuals by the Lichtpiraten and
+      sound by Eplex
+    credits: ''
+    link_out: ''
+    categories:
+    - creative
+    - experimental
+- Paginas Amarillas:
+    _slug: paginas-amarillas
+    subtitle: 'Paginas Amarillas: Digital launch tour'
+    description: 22m Inflatable mobile dome for Paginas Amarillas Spanish digital
+      launch tour October 2013
+    credits: ''
+    link_out: ''
+    categories:
+    - corporate
+- Gross Planetarium Berlin:
+    _slug: gross-planetarium-berlin
+    subtitle: Carl Zeiss Gross-planetarium Berlin
+    description: Omnidome's first ever test session at the Carl Zeiss Planetarium
+      in Berlin June 2013
+    credits: ''
+    link_out: ''
+    categories:
+    - planetariums
+- Omnidome Software Video:
+    _slug: omnidome-software-video
+    seo_title: Omnidome Software Video
+    meta_keywords: Omnidome, Fulldome, Dome, Mapping, OS X, Linux, Lichtpiraten
+    subtitle: Fulldome mapping for live artists
+    description: Omnidome is a Fulldome mapping software and plugin toolkit designed
+      for artists to be able to create fulldome shows and play live in a 360° immersive
+      environment. Designed and programmed as a collaboration between the Berlin based
+      live art and music collective The LiCHTPiRATEN and members of Berlin hackspace
+      Raumfahrtagentur.
+    credits: ''
+    categories: []
+- Teufelsberg:
+    _slug: teufelsberg
+    subtitle: Omnidome demo party @ Tuefelsberg
+    description: "live visual & dome mapping\r\nby LiCHTPiRATEN\r\n\r\nlive audio
+      performance\r\nby eplex & monojo\r\n\r\nthanks to\r\n\r\nlocation\r\nteufelsberg
+      e.V. Berlin\r\n\r\nprojectors\r\nbeamaround\r\n\r\nlight\r\nlautwerfer\r\nDr.
+      Strebel\r\n\r\nlaser\r\nlaser lukas\r\nlasa berlin\r\n\r\nphoto\r\nRolf Schulz\r\nUlrich
+      Riebe\r\n\r\nOMNIDOME produced by\r\nLiCHTPiRATEN\r\n"
+    credits: ''
+    categories: []

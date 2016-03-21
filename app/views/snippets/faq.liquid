@@ -1,0 +1,39 @@
+<!-- PAGE | FAQ -->
+<div class="pages page-faq" id="page-faq">
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <h4 class="line-divider">FAQ</h4>
+      <h1>QUESTIONS ABOUT OMNIDOME</h1>
+      <div class="row">
+        <div class="span8 offset2">
+          <p>
+          Let us know via our contact form if your question isn't answered here          
+          </p>
+        </div>
+      </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- Article -->
+    
+    
+      <article>
+      <!-- Features blocks -->
+      <div class="row-fluid">
+        <div class="span12">
+          <ul class="thumbnails">
+            {% for faq in contents.faq %}
+              <li class="thumbfix span6">
+                <h5>{{ faq.question }}</h5>
+                <p class="smallFontBy08 cutBy10">{{ faq.answer}}</p>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </article>
+    <!-- End Article -->
+  </div>
+</div>
+<!-- END PAGE | ABOUT -->

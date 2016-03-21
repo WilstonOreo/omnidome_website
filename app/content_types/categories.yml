@@ -1,0 +1,32 @@
+---
+name: Categories
+description: A description of the content type for the editors
+slug: categories
+label_field_name: name
+order_by: manually
+order_direction: asc
+fields:
+- name:
+    label: Name
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- key:
+    label: Key
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- projects:
+    label: Projects
+    type: many_to_many
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+    class_name: categories
+    inverse_of: projects
+    ui_enabled: true

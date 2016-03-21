@@ -1,0 +1,72 @@
+<!-- PAGE | FEATURES -->
+<div class="pages white paralax page-features" id="page-features">
+  <div class="overlay"></div>
+  <div class="container">
+     <!-- Header -->
+    <header>
+      <h4 class="line-divider">Features</h4>
+      <h1>AT A GLANCE</h1>
+      <div class="row">
+        <div class="span8 offset2">
+          <p>
+            OMNIDOME IS A MAC OS X & LINUX MAPPING CALIBRATION SOFTWARE WTH CUSTOM PLUGINS DESIGNED FOR HIGH PERFORMANCE FULLDOME PROJECTIONS 
+          </p>
+        </div>
+      </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- Article -->
+    <article>
+      <!-- Features blocks -->
+      <div class="row-fluid">
+        <div class="span12 center">
+          <ul class="thumbnails">
+            {% for feature in contents.features %}
+              <li class="thumbfix span4">
+                {% if feature.image %}
+                 <img src="{{ feature.image.url }}" alt="{{ feature.name }}">
+                {% endif %}
+                <h5>{{ feature.name }}</h5>
+                <p class="smallFontBy08 cutBy10">{{ feature.description }}</p>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <!-- Testemonials -->
+      <div class="row-fluid">
+        <div class="span8 offset2">
+          <div class="quote center">
+            <div id="quote-slider" class="slide">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item">
+                  Omnidome was designed to be a fast performance solution, allowing you to run a full dome projection setup from a laptop. 
+                <h5>Designed for speed</h5>
+                </div>
+                <div class="item">
+                  Configure your projectors with a live simulation preview, mesh warp edge blend and export your dome data to our custom plugins, then just play in your favorite VJ software directly. 
+                <h5>Smart Workflow</h5>
+                </div>
+                <div class="item">
+                  Switch seamlessly from fisheye to spherical and cubic mapping modes, use our custom plugins to display content as a plane, cylinder or cubic map within the dome mapping, ideal for films, live camera's & logos. Take full control of your dome with Omnidome. 
+                  <h5>Advanced Content</h5>
+                </div>
+              </div>
+              <!-- Carousel indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#quote-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#quote-slider" data-slide-to="1"></li>
+                <li data-target="#quote-slider" data-slide-to="2"></li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+    <!-- End Article -->
+  </div>
+</div>
+<!-- END PAGE | FEATURES -->

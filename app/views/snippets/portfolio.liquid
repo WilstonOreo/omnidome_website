@@ -1,0 +1,78 @@
+<!-- PAGE | WORK -->
+<div class="pages page-work" id="page-work">
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <h4 class="line-divider">Work</h4>
+      <h1>PROJECTS</h1>
+      <!-- Short desciption about Work in general -->
+      <div class="row">
+        <div class="span8 offset2">
+          <p>
+            Check out our latest projects
+          </p>
+        </div>
+      </div>
+
+      <!-- Sub menu -->
+      <!--
+      Params:
+        plugin-filter: Defines links for filtering.
+      -->
+      <nav class="submenu">
+        <ul>
+          <li>
+            <a href="#" class="plugin-filter active" data-filter="all">All</a>
+          </li>
+
+          {% for category in contents.categories %}
+            <li>
+              <a href="#" class="plugin-filter" data-filter="{{ category.key }}">{{ category.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <!-- End Header -->
+
+    <!-- Article -->
+    <article>
+      <!-- Portfolio items
+        Params:
+          plugin-filter-elements: Defines items for filtering, each item has class which defines filter value.
+          portfolio-items: Customise portfolio items for hover effect.
+      -->
+      <ul class="thumbnails plugin-filter-elements portfolio-items">
+        {% paginate contents.projects by 6 %}
+          {% for project in paginate.collection %}
+
+            <li class="span4 mix {{ project.categories | map: "key" | join: " " }}">
+            <a href="#/projects/{{ project._slug }}" data-destination="portfolio-items" data-insert="before">
+              <!-- Portfolio image -->
+              {% if project.images.first %}
+                {% assign img = project.images.first %}
+                <img src="{{ img.file | resize: "390x300" }}" alt="{{ img.caption }}">
+              {% endif %}
+
+              <!-- Portfolio name, activated on hover -->
+              <div class="portfolio-overlay">
+                <h4>{{ project.title }}</h4>
+              </div>
+            </a>
+          </li>
+          {% endfor %}
+        {% endpaginate %}
+      </ul>
+    </article>
+    <!-- End Article -->
+  </div>
+</div>
+<!-- PAGE | WORK -->
+
+<!--
+<div class="show-more-cube">
+   <a href="#pages/portfolio/readmore.html" data-destination="plugin-filter-elements" data-insert="appendTo" data-action="remove">
+    <span>Show<br/>More</span>
+  </a>
+</div>
+-->

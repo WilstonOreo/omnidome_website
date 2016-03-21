@@ -1,0 +1,37 @@
+---
+- 303C Hamburg:
+    _slug: 303c-hamburg
+    file: "/samples/images/303c-hamburg/303C.jpg"
+    project: 30c3-hamburg
+- 303C Hamburg 2:
+    _slug: 303c-hamburg-2
+    file: "/samples/images/303c-hamburg-2/303C2.jpg"
+    project: 30c3-hamburg
+- 303C Hamburg 3:
+    _slug: 303c-hamburg-3
+    file: "/samples/images/303c-hamburg-3/303C3.jpg"
+    project: 30c3-hamburg
+- 303C Hamburg 4:
+    _slug: 303c-hamburg-4
+    file: "/samples/images/303c-hamburg-4/303C4.jpg"
+    project: 30c3-hamburg
+- 303C Hamburg 5:
+    _slug: 303c-hamburg-5
+    file: "/samples/images/303c-hamburg-5/303C5.jpg"
+    project: 30c3-hamburg
+- Paginas Amarillas:
+    _slug: paginas-amarillas
+    file: "/samples/images/paginas-amarillas/paginas_amarillas.jpg"
+    project: paginas-amarillas
+- Gross Planetarium Berlin:
+    _slug: gross-planetarium-berlin
+    file: "/samples/images/gross-planetarium-berlin/gp_berlin2.jpg"
+    project: gross-planetarium-berlin
+- Omnidome Software Demo:
+    _slug: omnidome-software-demo
+    file: "/samples/images/omnidome-software-demo/demopic2.png"
+    project: omnidome-software-video
+- Teufelsberg:
+    _slug: teufelsberg
+    file: "/samples/images/teufelsberg/teufels.jpg"
+    project: teufelsberg

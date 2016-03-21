@@ -1,0 +1,57 @@
+---
+- 'Q: Where can i download Omnidome?':
+    _slug: q-where-can-i-download-omnidome
+    answer: 'A: Omnidome is now available under a AGPL v3 Licence. Source code can
+      be downloaded from our<a href="https://github.com/cr8tr/omnidome"> GitHub </a>account.
+      </br>This is a preliminary release only so no binaries as of yet. '
+- 'Q: Will it work on windows?':
+    _slug: q-will-it-work-on-windows
+    answer: 'A: Omnidome is designed and tested using either <a href=''http://www.apple.com/osx/''>Mac
+      OS X</a> or a linux type OS such as <a href=''http://www.ubuntu.com/''>Ubuntu</a>
+      It could be made to work on Windows, since we utilize platform independent libraries
+      like Boost and Qt it shouldn''t be an obstacle to port it.'
+- 'Q: How many projectors can it support?':
+    _slug: q-how-many-projectors-can-it-support
+    answer: 'A: Omnidome’s modular design means in theory there is no limit to the
+      number of projectors, so it can handle as many projectors as your computer can
+      manage!'
+- 'Q: What type of content can Omnidome play?':
+    _slug: q-what-type-of-content-can-omnidome-play
+    answer: 'A: Omnidome supports 3 different types of mapping, <a href=''http://en.wikipedia.org/wiki/Sphere_mapping''>Spherical</a>,
+      <a href=''http://en.wikipedia.org/wiki/Fisheye_lens#Mapping_function''>Fisheye</a>
+      & <a href=''http://en.wikipedia.org/wiki/Cube_mapping''>Cubic</a>. It also contains
+      various plugins for displaying Planar, Cylindrical & Cubic content within the
+      dome mapping. So with the right presentation software, everything is possible.'
+- 'Q: Does it work with a Matrox Triplehead?':
+    _slug: q-does-it-work-with-a-matrox-triplehead
+    answer: 'A: Yes, Omnidome is fully compatible with the <a href=''http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/''>Matrox
+      Triplehead.</a> It also works without or with a combination of both. In fact
+      it can automatically detect the triplehead and split the output from that into
+      seperate screens. This means you can run up to 6 projectors from a single laptop!'
+- 'Q: Can I use Syphon?':
+    _slug: q-why-not-syphon
+    answer: Yes! However, The Omnidome calibration software doesn't work with <a href='http://http://syphon.v002.info/'>Syphon</a>
+      but as long as the performance software you use supports Syphon, you can use
+      Syphon as an input.
+- 'Q: Do I need another software for performance?':
+    _slug: q-do-i-need-another-software-for-performance
+    answer: 'A: Yes, Omnidome isn’t a performance software but is a calibration software.
+      You will need another program to play live in, we recommend using <a href=''http://vidvox.net/''>VDMX</a>
+      but there are plenty of other compatible options out there, such as <a href=''http://www.millumin.com/''>Millumin</a>,
+      <a href=''http://cogevj.hu/''>CoGe</a>, & <a href=''http://resolume.com/''>Resolume</a>.'
+- 'Q: WIll it work with more than half domes?':
+    _slug: q-will-it-work-with-more-than-half-domes
+    answer: 'A: Yes, Omnidome works with all types of domes and can easily handle
+      domes that extend beyond the standard half domes found in most planetariums,
+      such as the radar dome at <a href=''http://berliner-teufelsberg.com/''>Teufelsberg</a>.'
+- 'Q: Why isn’t my favorite VJ software supported?':
+    _slug: q-why-isnt-my-favorite-vj-software-supported
+    answer: 'A: Good question! If your software supports either <a href=''http://en.wikipedia.org/wiki/Quartz_Composer''>Quartz
+      Composer</a>, <a href=''http://vdmx.vidvox.net/blog/isf''>ISF</a> or <a href=''http://freeframe.sourceforge.net/''>FreeFrame</a>
+      plugins (coming soon) then it likely will work, you can always send us a message
+      and we will see if it can be added to our supported software list.'
+- 'Q: Can Omnidome do auto-configuration?':
+    _slug: q-can-omnidome-do-auto-configuration
+    answer: 'A: Currently not but it is on our planned feature list. If you are interested
+      in helping to fund the development of this feature please contact us directly
+      and then we can make it happen!'

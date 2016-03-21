@@ -1,0 +1,27 @@
+---
+name: Customer Messages
+description: Messages submitted via the website
+slug: customer_messages
+label_field_name: name
+order_by: created_at
+order_direction: desc
+fields:
+- name:
+    label: Name
+    type: string
+    required: true
+    unique: false
+    localized: false
+- email:
+    label: Email
+    type: string
+    required: true
+    unique: false
+    localized: false
+- message:
+    label: Message
+    type: text
+    required: true
+    unique: false
+    localized: false
+    text_formatting: none

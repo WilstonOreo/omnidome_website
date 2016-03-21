@@ -1,0 +1,669 @@
+---
+- 'Joe Crossley ':
+    _slug: joe-crossley
+    email: joe@astralprojekt.com
+    message: "Thank you guys - \n\nBeen around the dome world for a while but you
+      guys just popped the lid. \n\nWell done and thanks - we will be sure to credit
+      you as it happens \n\nJC \nJoe Crossley / visual artist on Facebook ! "
+- Vasiliy:
+    _slug: vasiliy
+    email: villarestate@gmail.com
+    message: |-
+      Hello,
+      I looking for a program for the fulldome mapping. Is your software can help me in it?
+
+      Best regards, Vasiliy Illarionov
+- 'Erwin ':
+    _slug: erwin
+    email: mrnoize@me.com
+    message: "hola \nestoy interesado en el soft tiene alguna beta para chequear \nme
+      parece interesante \n\nsaludos desde chile \n\nErwin. \n"
+- Stefano Casella:
+    _slug: stefano-casella-1
+    email: mr.earthling@gmail.com
+    message: |-
+      Hi there,
+      I have noticed MICHAEL WINKELMANN updated something in GitHub, but the installation still is incomplete. Any way for you to provide a release build to put on your github page? some people seem to have experienced my problem too..
+
+      thanks!
+- Stefano Casella:
+    _slug: stefano-casella
+    email: mr.earthling@gmail.com
+    message: "Hey there,\nthanks for having such a brilliant project to share. I'm
+      trying to intstall omnidome following all the steps you described in https://github.com/cr8tr/omnidome\n\nEverything
+      downloaded and installed (more than once), but the final result is that the
+      application omnidome.app is damaged or incomplete.\nAny idea of what can be
+      wrong?\nI have a macbook pro with Yosemite installed, I have installed the  opensource
+      version of QT 5.5,  the Xcode it asked for, homebrew... really no ideas :( \n\nhope
+      to hear from you\n\nthanks and best from Barcelona"
+- Ali Sihab AKCAN:
+    _slug: ali-sihab-akcan-1
+    email: sihab.akcan@gmail.com
+    message: "Hi,\n    I have just exported a calibration from Omnidome. I need a
+      VJ program that executes the calibration file. May I ask which VJ programs execute
+      the calibration file for both Ubuntu and Windows? I also need this configuration
+      while running \nStellarium software. Is it possible?\n\nCan you help me please?"
+- Ali Sihab AKCAN:
+    _slug: ali-sihab-akcan
+    email: ali_sihab@hotmail.com
+    message: |-
+      Hi,
+          I want to say thank you for this great project. I like it very much. It is really helpful. I have two questions.
+      1. I want to play Stellarium on halfdome. Is it possible with Omnidome?
+      2. Which VJ software do you suggest for Ubuntu 14.04?
+
+      Best,
+- The Polymorph Extra:
+    _slug: the-polymorph-extra-1
+    email: contact@polymorph-extra.com
+    message: "Hi again! \n\nI tried to download and install files and needed dmg on
+      my new macbook pro 15 SSD, retina running El Capitan OS, but it seems that I
+      have Xcode 5 requested by Qt is not opening on my computer. I believe that I
+      installed the brew stuff with terminal. I have no idea if its working or not.
+      So globally I am a little bit lost in the installation of Omnidome on my computer.
+      I don't know if you usually help newbies like me for installation, but if you
+      do, it would be wonderful. \nThanks a lot \nQ"
+- The Polymorph Extra:
+    _slug: the-polymorph-extra
+    email: contact@polymorph-extra.com
+    message: "Hello Omnidome team! \n\nMy name is Quentin Paquignon, im French artist
+      living in Shanghai since 10 years. I created an art collectif few years ago
+      in Shanghai : THE POLYMORPH EXTRA ( www.polymorph-extra.com ) We are more than
+      15 nationalities trying to work together on the idea of building a full immersive
+      show. We are musicians, designers, costume designers, structure engineer, sound
+      engineer, make-up artist, dancer/choreographer, interaction designer and even
+      a chef....\nWe had the chance to record last june in Shanghai, our first album
+      in immersive set-up with the help of Sennheiser people. \nWe have a potential
+      partner for full immersive sound system for live show. We wrote the script of
+      our first show. And now we are building our project to introduce it to potential
+      financial partners and sponsors this year in Shanghai for a showcase. \nWe made
+      a lot of researches for dome projection mapping and I found you. So I wanted
+      to know if you could be maybe interested in being part of our project for the
+      dome projection part? Of course you wouldn't do that for free and we totally
+      understand it. So I would like to discuss with your team if there would be any
+      possible way of technical collaboration for our show to help us make it happen.
+      \nThanks to let me know if this idea could interest you guys. If not, we will
+      try to manage on our own to make it happen with your wonderful project Omnidome.
+      Thanks to create it, seems to be wonderful solution that we were waiting for.
+      \nOn behalf of Polymorph Extra, I wish you a wonderful week-end! Looking forward
+      to hear from you if possible!\nBest Regards, \nQuentin"
+- Andrew:
+    _slug: andrew
+    email: pogi@wizart.kz
+    message: "Hello!) \nI don't now what happens. I can't compile the omnidome. There
+      are have a trouble.\nCan you help me?) I'm not programmer and solve some problems
+      but not this)))\nThank you for attention and Happy New Year!)\nP.S. Sorry for
+      my English\n \nMacBook-Pro-POGi:omnidome POGi$ cmake -DCMAKE_BUILD_TYPE=Release
+      .  &amp;&amp; make\n-- Found CMakeMacros environment in /Users/POGi/Qt5.4.0/omnidome/cmake-files\n--
+      Setup build directories.\n-- Build mode is Release\n-- Doxygen is setup. Use
+      'make doc' to generate documentation.\n-- /Users/POGi/Qt5.4.0/omnidome/../Qt/Users/POGi/Qt\nCMake
+      Error at CMakeLists.txt:25 (MESSAGE):\n  Qt Framework was not found.  You might
+      set QT_PATH manually.\n\n\n-- Configuring incomplete, errors occurred!\nSee
+      also \"/Users/POGi/Qt5.4.0/omnidome/CMakeFiles/CMakeOutput.log\"."
+- Elina:
+    _slug: elina
+    email: elina.mosaddegh@dream-box.tv
+    message: "Hi Omnidome Team , \n\nThis is Elina from Dreambox (dream-box.tv). We
+      are a production company based in Istanbul. \nWe are working on a dome project
+      that we think you might be able to help us with it. \nWe sent you an email yesterday
+      and as far as we are facing a short deadline, we would appreciate if you answer
+      us as soon as possible. \nUnfortunately I could not find any telephone number
+      here, so please check your mail and get back to us. \n\nWaiting for your email.
+      \n\nBests. \n\nElina\n\n"
+- Frans Schnabel:
+    _slug: frans-schnabel
+    email: schnabel@live.nl
+    message: |-
+      Hey omnidome!
+
+      I am spinning my head around dome mapping and i really want to try your software But i can't get it compiled..Installed home-brew 5.4 and i have xcode 6.3 but when i past the line it says " command not found".
+
+      Do you  have a idea how i can fix this??
+
+      Thanks in advance,
+
+      Your Sincerely,
+      Frans Schnabel
+- Cornelius:
+    _slug: cornelius
+    email: ProjectileObjects@gmail.com
+    message: |-
+      Hello,
+         Whenever you are ready please reach out to me, I would like to add Omnidome to our tools page: http://projection-mapping.org/tools/
+
+      Anon,
+      Cornelius
+- 'martin ':
+    _slug: martin
+    email: martinbuhagiar@mail.com
+    message: |
+      Hi to all at Omnidome,
+      I'm Martin and currently living in Bangkok Thailand.
+      I have a project going on in Bangkok for a projection double dome, and I would like to use your assistance and software for full dome projection mapping.
+      I already have the dome tent and projectors.
+      I can send you drawings, information and dimensions of the project if you can give me a mailing address, also it would be possible for me to come and meet you in germany, so let me know your feedback.
+
+      Kind regards,
+      Martin.
+- Paul:
+    _slug: paul
+    email: maskot.g@gmail.com
+    message: |-
+      Hello! Sorry for my English.
+      I came across your project in the network. I install it on my mac but did not understand how i cana connect this programm with vj software, like modula 8? Or i must use a other vj software? I want to arrange a party at home with a video J. Can help me, give what some instructions?
+
+      Best regards Paul
+- José Manuel González:
+    _slug: jose-manuel-gonzalez
+    email: nexus_69@hotmail.com
+    message: Hi there!! Cool idea the omnidome. Keep me informed about releases of
+      the software. Thanks
+- 'Sri ':
+    _slug: sri
+    email: sridama@gmail.com
+    message: "Hi!\n\nWhat stage of development is Omnidome currently at?\n\nI'm project
+      managing the planetarium and Vedic Science Museum part of The Temple of the
+      Vedic Planetarium, a mega structure in Mayapur, West Bengal, India!\n\nWe're
+      presenting an alternative to current modern cosmology - that from India's ancient
+      Vedas. \n\nWe're in exciting stages of development! Do visit us at www.tovp.org\n\nKind
+      regards\nSri"
+- biosonico:
+    _slug: biosonico
+    email: biosonico@yahoo.com
+    message: |-
+      hello we make geodesic domes and we want to implement the full dome projection, tell us more about the software and its possibilities
+      thnks
+      biosonico
+      (57)3172770727
+- leon trimble:
+    _slug: leon-trimble
+    email: leolodreamland@hotmail.com
+    message: |-
+      hi i am interested in trying out omnidome. i am currently waiting on delivery of a dome from santa cruz... it will be a half sphere. the thing i need tho has three requirements:
+      1 i am back projecting i.e. outside the dome (to make it fully immersive of course)
+      2. i want to use multiple syphon textures on the dome with different uv mappings each
+      3. i want to blend these with alpha and blend modes like difference, multiply etc.
+- Hans:
+    _slug: hans
+    email: hanskanderson@gmail.com
+    message: I would love to hear when this will be available, I'm working on a mobile
+      art project involving interactive dome projection. The setup is already finished
+      in Resolume, so this sounds like the thing I am looking for to project on to
+      a dome. Do you have an estimated launch date?
+- akufene:
+    _slug: akufene
+    email: akufene.ak@gmail.com
+    message: |-
+      hello guys! just to say hello!
+      Next days i'll go to map an important medioeval dome in Florence..but your software is still private! :(
+      I'll love  if you could take me like a beta tester.. i can give you pics of the work with your software
+      Just think about that..
+      cheers
+      Amerigo aka Akufene
+- Daniel:
+    _slug: daniel
+    email: info@av-suite.de
+    message: |-
+      Hi Jungs und Mädels,
+
+      interessante Software die Ihr da in der Pipeline habt.
+      Ist es möglich eine Vorabversion zum ausprobieren von euch zur Verfügung gestellt zu bekommen?
+      Bin aus der Veranstaltungsbranche und Video- und Projetktionstechniker und probiere immer gerne neue Dinge aus.
+      Meine Webseite ist www.av-suite.de
+      Da ist auch ein Video von einer Produktion mit Millumin auf der Startseite.
+      Interessant wäre die Einbindung eurer Software in Millumin mit Syphon.
+
+      Wenn ihr was in Berlin macht, gebt gerne bescheid. Das sehe ich mir auch gerne an.
+      Da ich ab und an auch immer wieder dort bin.
+
+      LG
+      Daniel
+- sebastian schmiedl:
+    _slug: sebastian-schmiedl-1
+    email: sebasschmiedl@gmail.com
+    message: "Hello!!! \nIt's lucky to found you , I'm a musician and visual artist
+      from Ecuador , I love your  work and I would like to use omnidome.\nI am part
+      of \" Aborigen \" a group of artists working for experimental purposes in order
+      to show the culture of our country.\nI would like to you visit our website www.aborigen.ec
+      and if you like our work, I'll appreciate very much that you get in touch.\nthanks.\n"
+- sebastian schmiedl:
+    _slug: sebastian-schmiedl
+    email: sebasschmiedl@gmail.com
+    message: "Hello!!! \nIt's lucky to found you , I'm a musician and visual artist
+      from Ecuador , I love your  work and I would like to use omnidome.\nI am part
+      of \" Aborigen \" a group of artists working for experimental purposes in order
+      to show the culture of our country.\nI would like to you visit our website www.aborigen.ec
+      and if you like our work, I'll appreciate very much that you get in touch.\nthanks.\n"
+- Alejandro Serra:
+    _slug: alejandro-serra-1
+    email: aserra@3for3.us
+    message: 'I am looking for a solution to map a white acrylic dome about 4.5''
+      diameter with rear projection from the exterior. '
+- Alejandro Serra:
+    _slug: alejandro-serra
+    email: aserra@3for3.us
+    message: 'I am looking for a solution to map a white acrylic dome about 4.5''
+      diameter with rear projection from the exterior. '
+- Jony:
+    _slug: jony
+    email: ruzaevg@gmail.com
+    message: 'Hello!))) '
+- David Jolosky:
+    _slug: david-jolosky-2
+    email: daveyj@squeezle.com
+    message: do you have a release plan for Omnidome?
+- Riccardo Puglisi:
+    _slug: riccardo-puglisi
+    email: sk4tting@gmail.com
+    message: |-
+      hi, very beautifull.
+      I'm interesting for u software - please try me with a beta :p ??
+- Keld Nielsen:
+    _slug: keld-nielsen-1
+    email: kn@avcenter.dk
+    message: |-
+      Hi
+      Is it possible to buy the software?
+      It looks very exciting?
+      Sincerely
+      Keld Nielsen
+- Keld Nielsen:
+    _slug: keld-nielsen
+    email: kn@avcenter.dk
+    message: |-
+      Hi
+      Is it possible to buy the software?
+      It looks very exciting?
+      Sincerely
+      Keld Nielsen
+- Pierre WILHELM:
+    _slug: pierre-wilhelm-1
+    email: pierre.wilhelm@free.fr
+    message: "Hello,\nI'm the presidnt of associaiton DIRIUS in France. We mange a
+      mobile planétarium . We want to project our soft with 6 projectors , one PC
+      with à 2 graphic cards Nvidia Quadro 4200. \nWe are intrested in your soft for
+      warping and blending..\nColt we have a documentation for our planetarium, and
+      your prize?\nBest regards,\nPierre WILHELM\n +33670757410\nwww.asso-sirius.org"
+- Pierre WILHELM:
+    _slug: pierre-wilhelm
+    email: pierre.wilhelm@free.fr
+    message: "Hello,\nI'm the presidnt of associaiton DIRIUS in France. We mange a
+      mobile planétarium . We want to project our soft with 6 projectors , one PC
+      with à 2 graphic cards Nvidia Quadro 4200. \nWe "
+- David Jolosky:
+    _slug: david-jolosky-1
+    email: daveyj@squeezle.com
+    message: Are you still in development for a public release?
+- David Jolosky:
+    _slug: david-jolosky
+    email: daveyj@squeezle.com
+    message: Are you still in development for a public release?
+- Simon Willmann:
+    _slug: simon-willmann
+    email: simon@elektropost.org
+    message: Hello test?
+- WILHELM Pierre:
+    _slug: wilhelm-pierre
+    email: pierre.wilhelm@free.fr
+    message: "Bonjour,\nje suis le president de l'association Sirius. Nous gérons
+      un planéatrium mobile de 6 m de diamètre. Nous allons construire un planétarium
+      fixe de 8 m de diamètre avec 6 ou 8 videorojecteurs.\nEst ce que votre soft
+      est en vente pour notre structure?  Pour la calibration, utilisez vous un appareil
+      photo avec fisheye?\n\nQue pouvez vous me proposez comme solution complète?\ncdt\nPierre
+      WILHELM "
+- Alberto:
+    _slug: alberto-1
+    email: aacfly@hotmail.com
+    message: |-
+      Hi, I have a dome 5 meters and want to know whether to use the x-plane need a program or software for wraps, because I have the spherical mirror and projector, but movies look good, and the x-plane no looks good, is fuzzy and slightly crisp, and know how to be the projection surface with paint.
+      thank you for your help
+- Alberto:
+    _slug: alberto
+    email: aacfly@hotmail.com
+    message: |-
+      Hi, I have a dome 5 meters and want to know whether to use the x-plane need a program or software for wraps, because I have the spherical mirror and projector, but movies look good, and the x-plane no looks good, is fuzzy and slightly crisp, and know how to be the projection surface with paint.
+      thank you for your help
+- Neres:
+    _slug: neres
+    email: Sarkisian@live.com
+    message: |-
+      To whom it may concern,
+      My Name Is Nerses From "Eye See Experience"  a visual Company Based In (Beirut - lebanon ) We run most of our projects in the Middle East .
+      I was checking your SOFTWARE, very interesting  , and i wanna try out something like the  "Fulldome mapping for live artists"  video that you posted, Projected from outside the FullDome. And for the performance I'm gonna use Resolume , VDMX  or Modul8 .
+      i kindly ask you for a demo for trial purposes, and to see if we can incorporate it in my company.
+
+      Regards,
+      Nerses sarkisian
+- V Bush:
+    _slug: v-bush
+    email: vowenbush@gmail.com
+    message: Can I be a tester?? recommended by David Lublin
+- Gabriel:
+    _slug: gabriel
+    email: gab91@hotmail.de
+    message: "Hey Omindome-Team,\n\nwir sind zwei Studenten aus Wien und sind  begeistert
+      von Eurer Dome Software.\n\nEiner von uns studiert Industrial Design, der Andere
+      Digitale Kunst. \n\nDa jetzt bald wieder der Sommer kommt und wir ein Festival
+      planen http://tddt.info/about wollen wir für eine Video- und Lichtinstallation
+      einen Dome aus Holzlatten bauen.\n\nEure Software wäre perfekt um das Mapping
+      \ auszurichten. Leider habt ihr keine public Version zum download.\nIst es möglich
+      eine beta Version ( wie die hier https://vimeo.com/94770871) von Euch zu bekommen
+      und zu testen?\n\nliebste Grüße aus Wien\nGabriel &amp; Moritz\n"
+- Shahan Mohammed:
+    _slug: shahan-mohammed
+    email: shahan@samsonpro.com
+    message: |-
+      Hi,
+
+      I'm really impressed Omnidome!
+
+      When can I expect to purchase the omnidome?
+- Ben Rochlin:
+    _slug: ben-rochlin
+    email: ben@figmentproductions.co.uk
+    message: "Hi,\n\nI'm working on a prototype of a dome projection, using 2 projectors
+      with Navitar 117 lenses. Currently we have a software solution, but I'm not
+      convinced we have the best possible results currently. \n\nI'd be really interested
+      to try out your software, it looks great. I only have our full size dome prototype
+      available for a very short amount of time so the sooner you can get in touch
+      the better! \n\nThis project is with a major client so we are prepared to do
+      what's necessary to get the best results. \n\nPlease do email me or call me
+      on my mobile, +44 (0) 7805 146 430.\n\nThanks\n\nBen"
+- Andreas:
+    _slug: andreas
+    email: andreas@krumpolt.de
+    message: |-
+      Hallo, ich bin medientechniker aus dresden und betreue hier einen mobilen 10m dome, welcher schon auf einigen kunst-festivals s and. Momentan arbeite ich noch mit resolume um das mapping durchzuführen. Würde mir gern mal euer system anschauen. Ich arbeite mit insgesamt 11 projektoren welche von 2 eyefinity 6 gpus angefahren werden. Gibts denn eine möglichkeit eure software mal zu bekommen um zu schauen wie der workflow da so ist?
+
+      Gern könnt ihr mich auch telefonisch unter 01711875760 kontaktieren.
+
+      Viele Grüße aus Dresden
+      Andreas
+- cihat cankurt:
+    _slug: cihat-cankurt
+    email: cihat@proartmedia.net
+    message: hello good work. I am looking for the calibration of video projection
+      equipment Fulldome project. Your software is in use in your projects kuppa?
+- carsten:
+    _slug: carsten-1
+    email: cf@zenvision.berlin
+    message: |-
+      we are working on a 3m geodesic dome with a 10 projektor setup based on raspeberry pi´s - among some international full dome projects - http://www.zendome.de/cms/front_content.php?idcat=192
+      perhaps we could join forces?
+- carsten:
+    _slug: carsten
+    email: cf@zenvision.berlin
+    message: |-
+      we are working on a 3m geodesic dome with a 10 projektor setup based on raspeberry pi´s - among some international full dome projects - http://www.zendome.de/cms/front_content.php?idcat=192
+      perhaps we could join forces?
+- AlcAnO:
+    _slug: alcano
+    email: alcano26@gmail.com
+    message: "Hi there,\nits was a good idea to stop by vidvox and read a great articule
+      of omnidome i would to try a beta version if you have one im using vdmx - yosemite
+      thanks keep on touch \n\nAtt     AlcAnO"
+- giuseppe:
+    _slug: giuseppe
+    email: giuseppemusolino@me.com
+    message: hi! can i test your software? :) i'm a visual performer base in south
+      italy, working with module, mad mapper, processing, raspberry pi, arduino and
+      trying to use linux sw too :)
+- kevin j:
+    _slug: kevin-j
+    email: 17485496@qq.com
+    message: Hello, I am a vj, hope to get your test version to test functionality
+      USES ` ` ` hope to distribute the download link, thank you.
+- Mike Iv:
+    _slug: mike-iv
+    email: mi.ivanof@gmail.com
+    message: "\t\nHallo, Freunde ! \nIch freue mich sehr, euch kennen zu lernen\nIch
+      heisse Mike, komme aus Sankt-Petersburg, Russland. Ich bin passionierter Hobby-VJ
+      und habe schon laengst von einer Kuppel getraeumt. Schliesslich haben wir uns
+      fuer die ersten Proben eine eigene kleine Kuppel (3 m.) aus dem Karton gebastelt.
+      Nun kommt die Frage wie Das Bild auf die Kuppel kommen soll. Ich wuerde es sehr
+      zu schaetzen wissen wenn Sie uns erlauben wuerden Ihre software zu testen oder
+      uns Rat geben. Wir haben 2 Projektoren. \nVielen dank und viele Gruesse, \nMike."
+- Lucas:
+    _slug: lucas
+    email: me@lucasgutierrez
+    message: |-
+      Hallo!
+      Just want to know how and when I can try / test OMNIDOME ? :)
+
+      best,
+      Lucas
+- Pablo Sosa Caba:
+    _slug: pablo-sosa-caba-1
+    email: pablonomos@gmail.com
+    message: |-
+      hi!!!!
+      nice work!!!!
+      when i can buy the soft?
+      a lot of works and this is a incredible tool!!!
+
+      thanks
+- hello!:
+    _slug: hello
+    email: ruzaevg@gmail.com
+    message: Hi ! I would like to try and get your version of the program !!! I am
+      a student from Russia takes the visual arts
+- Dmitry:
+    _slug: dmitry-1
+    email: hello@yokata.ru
+    message: "Hello friends! \nTell me when it will be possible to try your program
+      in action? \nWe have a 13 meter dome, and 5 projectors - and we are very interested
+      to test your wonderful omnidome!"
+- madie:
+    _slug: madie
+    email: madieleigh@gmail.com
+    message: Would love to see this product available for public use!
+- Ben:
+    _slug: ben
+    email: ben@icmovement.org
+    message: when wil lthis be available and at what cost  thanks
+- moncarey:
+    _slug: moncarey
+    email: tarrabass@gmail.com
+    message: "Look as a nice solution, \nbut how we can try it ? "
+- Geoff Kerrigan:
+    _slug: geoff-kerrigan
+    email: hexmodio@gmail.com
+    message: "Hi,\n\nWell it seems quite perfect, that I move back to Linux and discover
+      your project.\nI have just started design work on a fully immersive environment
+      which is basically designed around a dome dancefloor.\nI have been working in
+      the industry for many years now and have been bringing the best available tools
+      together to design specialist arena's.\nI would quite like to get working with
+      your product, as soon as it is available.\nEven from the media you have here
+      I can see that this will be an excelent product.\n\nI am currently based in
+      vienna and have contact with many VJ's and so would be able to provide a service
+      to many of the artists here.\n\nI will leave it at that but it would be great
+      to get a chance to test this software, my first Idea is one of the large fields
+      we have available here for testing such items.\n\nThanks for reading, I hope
+      to here from you soon.\n\nGeoff Kerrigan\nInfinity Sound and Light "
+- Tommy:
+    _slug: tommy
+    email: axlrecords@alice.it
+    message: |-
+      Hi,
+
+      I'd like to know if your software is right for the club I'm working.
+      We have 9 projector that make a 360 cilindrical projection area that I would like to mapp it. Those you software this type of setup, or is only suitable for dome or cubic mapping?
+
+      Please let me know
+
+      Regards
+
+      Tommy
+- Nigel Stift:
+    _slug: nigel-stift
+    email: nigelstift@gmail.com
+    message: |-
+      Hi,
+
+      We are looking for artists that offer live fulldome performance for dance events in the Netherlands. The idea is to set up a tilted 30m dome in diameter in which live electronic concerts will take place. A show will take about 4 to 5 hours. It is important the show is interactive, meaning the music is not preprogrammed and visuals have to be attuned to the music and crowd.
+
+      Do you offer such services?
+
+      Regards
+      Nigel Stift
+      Arvea
+- 'Tim Hicks ':
+    _slug: tim-hicks
+    email: tim.hicks@vorteximmersion.com
+    message: |-
+      Hello! I work with full dome, immersive, and interactive content creation and performance. Our company, based in Los Angeles, as of now is primarily working in a PC based environment, but is very interested in Mac based systems. Would love to try your software, and if you are ever in the LA area, come in and visit our facility! I look forward to hearing from you.
+
+      Regards,
+      Tim Hicks
+- ilan:
+    _slug: ilan
+    email: ilan@ilankatin.com
+    message: |-
+      Hello,
+
+      We have probably met here and there. We spoke briefly on twitter and I think I dropped in on your dome installation during 30c3.
+
+      After taking a closer look at what you are doing in comparison with BlendyDome I would say that your software makes more sense to me.
+
+      At the moment I am in the process of partnering up with OMAi, the creators of Tagtool for iPad, based in Austria. I will be there 'man in Berlin'.
+
+      I am interested in meeting up to discuss possible future collaborations, one such possibility being a live drawing jam in a dome.
+
+      Let me know if and when you have time to chat, face to face being the best bandwidth.
+
+      Kind regards,
+      ilan
+- Luke Hammonds:
+    _slug: luke-hammonds
+    email: hammonds.luke@gmail.com
+    message: |-
+      Hi
+
+      I have been looking around to try and find a piece of software that will allow me to project onto the inside of a dome shaped tent.
+
+      Do you have a time frame for the release of the software, or alternatively is there a beta version that you are allowing people to test?
+
+      Thanks, I look forward to your response
+
+      Luke Hammonds
+- Francisco Bustos:
+    _slug: francisco-bustos
+    email: sigarespirando@hotmail.com
+    message: |-
+      Hello! my name is Francisco i write from Argentina. i`m a visual artist and i have a Vj proyect call LaDoopla with my friend Gabriel. we want to test your software if it`s posible.  its looks great!. where we can find it? Congratulation. here is our work. is a little bit because we are make us new website. www.facebook.com/ladoopla
+
+      sorry for my english! bye!
+- JT:
+    _slug: jt
+    email: djjtrius@yahoo.com
+    message: |-
+      Please update me when will it be available.
+      Thumbs up to you guys.
+      Hope to hear from you soon.
+- Dear Omnido.me:
+    _slug: dear-omnido-dot-me
+    email: digimixer.vjpj@gmail.com
+    message: "Dear \" Omnidome\n\nDear omnidome this is Park jangho from Korea. Now
+      I visit my frineds mr. ilan katin .\nI heard omnidome from my friends mr. ilan
+      Katin  , and looks nice for dome mapping.\nI have a huge interesting about your
+      software.\nCan I ask you for demo when I go back to my studio in seoul for mapping
+      my bamboo dome ?\nThis is my korean style 3 V bamboodome making report for my
+      teacher mr. jan zhen ( http://www.cymatrix.org/ \nHope enjoy my video , and
+      hope meet you in berlin before go back to seoul.\nTHank you ;) my best regards.\n\nhttps://www.youtube.com/watch?v=4dfkbK1KDMM\n"
+- Michael John Hornyak:
+    _slug: michael-john-hornyak
+    email: mj@lightpainthir.com
+    message: |-
+      WOWO!  AWESOME WORK!
+
+      I am a guru software developer/engineer/analyst (30+ years)
+
+      For over 25 years, I have been working on a 3D (and beyond)
+      "advanced virtual reality system" ... that I call HiR.  Short for:
+
+         HyperInteractiveReality(.com) [: coming soon :]
+
+      I am working on a "light painting" program, that will be
+      Open Source and cross-platform... : Lightpainthir.com ...
+
+      ...that will become the worlds' most advanced "light
+      painting tool" ever!  I REALLY LIKE WHAT YOU GUYS 'N
+      GAL(S) are up too!  I would like to  collaborate!
+
+      My good friend Mike Savage emailed you today...
+
+      ...lets take dis to da next level!
+
+      Much Respect,
+      Michael John Hornyak!
+- Synchro:
+    _slug: synchro
+    email: savageonabike@gmail.com
+    message: looks awesome, im developing an organization focusing on supporting and
+      funding open source projects, and their developers, Omidome looks awesome, i
+      would love to see it in action and would love to showcase and support it (via
+      donation model)/user support, promotion, and documentation. however i do not
+      see any info at a glance on here on how  this will be released...anyway, just
+      wanted to let you know, if you release Open Source...you will be supported...thanks
+      so much for your focused creation, and i look forward to seeing Omnidome in
+      action
+- Andrey:
+    _slug: andrey
+    email: nvapog@gmail.com
+    message: Hi!) this program is good news for VJs) I'm very interest for it. Because
+      now use vvvv at my visual installation, but now we want  to create full dome
+      theatre for children, and we want simple soft.)
+- danartri:
+    _slug: danartri
+    email: danarsianima@gmail.com
+    message: "hello, my name is danar. i am a VJ from Indonesia. Where can i buy omnidome?
+      \ i hope to make monidome for my next project. \nthx"
+- Aitor Biedma:
+    _slug: aitor-biedma
+    email: blubvideo@gmail.com
+    message: "Guys guys!! \nso exciting about this, I'm a hardcore VDMX user and been
+      looking for a way of doing dome projection, what I found so far didn't really
+      convince me. Please keep me posted about all your activities, Beta programs,
+      Alpha programs and even your Instagram and social networks (this last one maybe
+      I will not check ;) \nanyway, keep up the interesting work..\n\nGreets \n\nAitor"
+- Sebastián:
+    _slug: sebastian
+    email: info@bassrtv.com
+    message: |-
+      Hello.
+      Im a Vj and Stage Designer. if possible test this aplication?
+      Today mi work in geodesic structures using Inmersive Display Pro.
+      Regards from Argentina.
+      Sebastian.
+
+      p.d.: in this links ----&gt;  https://www.facebook.com/bassrtv01?ref_type=bookmark have some examples of mi work.
+- Pablo Sosa Caba:
+    _slug: pablo-sosa-caba
+    email: me@pablososacaba.com
+    message: |-
+      Great work!!!!
+      Complet soft an friendly!!!
+      Go On!
+- sven schneider:
+    _slug: sven-schneider
+    email: schneider@asignum
+    message: |
+      hallo liebe kollegen,
+
+      ich hatte gerade durch zufall eure website als link empfehlung gesehen. spannend was ihr macht, auch gerade für uns ua. im musealen umfeld.
+      da wir auch in berlin sind, können wir uns direkt einmal verständigen? wann würde nächste woche passen? kurzes feedback wäre super. merci. vg sven // schneider@asignum.com / 015234125706 / www.facebook.com/asignum
+- Dmitry:
+    _slug: dmitry
+    email: lis_ne@mail.ru
+    message: |-
+      Hello!
+      Very cool!
+      Im from Ekaterinburg, Russia
+      and i have 13 m diameter inflatable Dome
+      When you Omnidome will be available?
+- luigi:
+    _slug: luigi
+    email: team@glowarp.com
+    message: "very very interesting, if you need a beta tester, we have a project
+      about dome projections and maybe it would be very interested to collaborate
+      between us ;)\nwaiting your release :D\n\nLuigi \nwww.glowarp.com\n"

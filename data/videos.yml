@@ -1,0 +1,31 @@
+---
+- Random @ 30C3 Hamburg:
+    _slug: random-at-30c3-hamburg
+    vimeo: <iframe src="//player.vimeo.com/video/86825341?color=195281" width="500"
+      height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    caption: Random @ 30C3 Hamburg 2014
+    project: 30c3-hamburg
+- Gross Planetarium Berlin:
+    _slug: gross-planetarium-berlin
+    vimeo: <iframe src="//player.vimeo.com/video/87519837?color=195281" width="500"
+      height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    caption: Carl Zeiss Gross planetarium
+    project: gross-planetarium-berlin
+- Paginas Amarillas:
+    _slug: paginas-amarillas
+    vimeo: <iframe src="//player.vimeo.com/video/87709802?color=195281" width="500"
+      height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    caption: Paginas Amarillas dome tour 2013
+    project: paginas-amarillas
+- Omnidome Software Demo:
+    _slug: omnidome-software-demo
+    vimeo: <iframe src="//player.vimeo.com/video/94770871" width="500" height="281"
+      webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    caption: Fulldome mapping for artists
+    project: omnidome-software-video
+- Teufelsberg:
+    _slug: teufelsberg
+    vimeo: <iframe src="//player.vimeo.com/video/102448327" width="500" height="281"
+      webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    caption: Omnidome demo party @ Teufelsberg
+    project: teufelsberg

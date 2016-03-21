@@ -1,0 +1,91 @@
+---
+title: Project template
+
+# true if the page is included in the menu
+listed: false
+
+# true if the page is published
+published: true
+
+# position among sibling pages
+# position: 1
+
+# sets a redirection to the given url (301)
+# redirect_url: "<url to a page or to a remote url>"
+
+# content type that this page is templatizing
+content_type: projects
+
+# editable_elements:
+#   'some_block/some_slug': "<text>"
+#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+---
+
+{% block content %}
+  <section class="portfolio-item-details">
+  <div class="row-fluid">
+    <div class="span8">
+
+      {% if project.images.size > 1 %}
+        <div id="projectImages" class="carousel slide">
+          <!-- Carousel items -->
+          <div class="carousel-inner">
+            {% for image in project.images %}
+              {% if forloop.index == 1 %}
+                <div class="item active">
+              {% else %}
+              <div class="item">
+              {% endif %}
+                <img src="{{ image.file | resize: "900x600" }}" alt="{{ image.caption }}">
+              </div>
+            {% endfor %}
+          </div>
+          <!-- Carousel nav -->
+          <a class="carousel-control left" href="#projectImages" data-slide="prev">&lsaquo;</a>
+          <a class="carousel-control right" href="#projectImages" data-slide="next">&rsaquo;</a>
+        </div>
+      {% elsif project.images.size == 1 %}
+        {% assign image = project.images.first %}
+        <div class="project-image"><img src="{{ image.file | resize: "900x600" }}" alt="{{ image.caption }}"></div>
+      {% endif %}
+
+      {% for video in project.videos %}
+        {{ video.vimeo }}
+      {% endfor %}
+    </div>
+
+    <div class="span4">
+      <div class="close-portfolio">
+        <span>&#10006;</span>
+        <div class="clearfix"></div>
+      </div>
+      <h5>{{ project.title }}</h5>
+      <article class="smallFontBy08">
+      <h7>{{ project.subtitle }}</h7>
+      <article class="smallFontBy08">
+        <p>
+          {{project.description}}
+        </p>
+      </article>
+      <!-- 
+<div class="social-icons sicon-black bordered bordered-black">
+        <a href="#" class="sicon-white sicon-facebook"><i>Facebook</i></a>
+        <a href="#" class="sicon-white sicon-twitter"><i>Twitter</i></a>
+        <a href="#" class="sicon-white sicon-linkedin"><i>LinkedIn</i></a>
+        <a href="#" class="sicon-white sicon-youtube"><i>Youtube</i></a>
+        <a href="#" class="sicon-white sicon-pinterest"><i>Pinterest</i></a>
+      </div>
+ -->
+      <div class="submenu">
+        <ul>
+        {% for category in project.categories %}
+          <li>
+            <span>{{ category.name }}</span>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,27 @@
+---
+- MULTI OS:
+    _slug: multi-os
+    image: "/samples/features/multi-os/about01.png"
+    description: Custom programmed for Mac OS X & Linux using C++.
+- MUlTIPLE DOME TYPES:
+    _slug: multiple-dome-types
+    image: "/samples/features/multiple-dome-types/about02.png"
+    description: Half dome, full dome, geodesic, inflatable & Planetariums. Omnidome
+      works with them all.
+- 'VJ SOFTWARE COMPATIBLE ':
+    _slug: vj-software-compatible
+    image: "/samples/features/vj-software-compatible/about03.png"
+    description: Custom plugins work with most popular presentation software.
+- THREE MAPPING MODES:
+    _slug: three-mapping-modes
+    image: "/samples/features/three-mapping-modes/about04.png"
+    description: Spherical, fisheye & cubic mapping.
+- Fast & Direct:
+    _slug: no-syphon
+    image: "/samples/features/no-syphon/about05.png"
+    description: Omnidome plugins runs natively in your preferred VJ software allowing
+      for more realtime control.
+- MODULAR SYSTEM:
+    _slug: modular-system
+    image: "/samples/features/modular-system/about06.png"
+    description: Configure as many projectors as you need in whatever setup you want.

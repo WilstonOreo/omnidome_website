@@ -1,0 +1,90 @@
+<!-- PAGE | CONTACT -->
+<div class="pages black-bg white page-contact" id="page-contact">
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <h4 class="line-divider">Contact</h4>
+      <h1>SEND US A MESSAGE</h1>
+      <div class="row">
+        <div class="span8 offset2">
+          <p>
+            Please get in touch for more information about the Omnidome software or for a quote or consultancy for your dome project.
+          </p>
+        </div>
+      </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- Start Article -->
+    <article>
+      <div class="row-fluid">
+        <!-- Contact form -->
+        <div class="span6">
+          <h5>Drop Us A Line</h5>
+          <form id="contact-form" method="POST" action="/no-spam">
+            {% csrf_param %}
+            <input type="hidden" value="/" name="success_callback" />
+
+            <input type="text" class="span12" placeholder="Name" name="content[name]" required="required">
+            <input type="email" class="span12" placeholder="Email" name="content[email]" required="required">
+            <textarea rows="10" class="span12" placeholder="Message" name="content[message]" required="required"></textarea>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+          <div id="contact-form-success" class="alert alert-success hide">
+            <button type="button" class="close">×</button>
+            <strong>Thanks!</strong> We got your message and will get in touch with you as soon as possible.
+          </div>
+          <div id="contact-form-error" class="alert alert-error hide">
+            <button type="button" class="close">×</button>
+            <strong>Oops!</strong> There was an error submitting your message. Please review your inputs.
+          </div>
+        </div>
+        <!-- End Contact form -->
+
+        <!-- Contact information -->
+        <div class="span5 offset1">
+          <h5>Contact us via email</h5>
+          <div class="media">
+            <div class="social-icons sicon-white pull-left">
+              <a href="https://www.google.com/maps/place/Berlin/" class="sicon-place"><i>Location</i></a>
+            </div>
+            <div class="media-body smallFontBy08">
+              Based in Berlin
+            </div>
+          </div>
+          <div class="media">
+            <div class="social-icons sicon-white pull-left">
+              <script language="javascript">
+                var qVPVlLClsqZJZTr=["109","97","x69","108","x40","111","x6d","x6e","x69","x64","111","x2e","x6d","101"];
+                var pAYLCzuHrcdeVEc=[""];
+                GLTXyDUNbmQOHRn=["x6d","x61","x69","x6c","x40","x6f","109","x6e","105","100","111","x2e","109","x65"];
+                document.write("<a href=\"&#x6d;&#00097;&#105;&#x6c;&#x74;&#x6f;&#x3a;");
+               for (i=0; i<qVPVlLClsqZJZTr.length; i++) document.write('&#'+qVPVlLClsqZJZTr[i]+';');
+              for (i=0; i<pAYLCzuHrcdeVEc.length; i++) document.write(pAYLCzuHrcdeVEc[i]);
+              document.write('" class="sicon-mail"><i>email</i></a>');
+              </script>
+            </div>
+            <div class="media-body smallFontBy08">
+              General Enquiries
+            </div>
+          </div>
+          <br/>
+          <br/>
+          <br/>
+          <h5>Get social</h5>
+          <div class="social-icons sicon-white bordered">
+            <a href="https://twitter.com/_omnidome" class="sicon-twitter"><i>Twitter</i></a>
+          </div>
+        </div>
+        <!-- End Contact information -->
+      </div>
+    </article>
+    <!-- End Article -->
+  </div>
+
+  <!-- Background map image -->
+  <div id="map-image">
+  </div>
+</div>
+<!-- END PAGE | CONTACT -->

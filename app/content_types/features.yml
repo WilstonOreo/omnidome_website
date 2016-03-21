@@ -1,0 +1,29 @@
+---
+name: Features
+description: A description of the content type for the editors
+slug: features
+label_field_name: name
+order_by: manually
+order_direction: asc
+fields:
+- name:
+    label: Name
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- image:
+    label: Image
+    type: file
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+- description:
+    label: Description
+    type: string
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false

@@ -1,0 +1,22 @@
+---
+name: Faq
+description: A description of the content type for the editors
+slug: faq
+label_field_name: question
+order_by: manually
+order_direction: asc
+fields:
+- question:
+    label: Question
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- answer:
+    label: Answer
+    type: string
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false

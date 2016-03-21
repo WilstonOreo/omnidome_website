@@ -1,0 +1,78 @@
+---
+title: Imprint
+slug: imprint
+listed: false
+published: true
+cache_strategy: none
+response_type: text/html
+position: 101
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- META DATA -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    {% seo %}
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ 'ico/apple-touch-icon-144-precomposed.png' | theme_image_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ 'ico/apple-touch-icon-72-precomposed.png' | theme_image_url }}">
+    <link rel="apple-touch-icon-precomposed" href="{{ 'ico/apple-touch-icon-57-precomposed.png' | theme_image_url }}">
+    <link rel="shortcut icon" href="{{ 'ico/favicon.png' | theme_image_url }}">
+
+    <!-- STYLESHEETS -->
+    {{ 'theme.css' | stylesheet_tag: 'screen' }}
+
+    <!-- GOOGLE WEB FONTS -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:900' rel='stylesheet' type='text/css'>
+  
+  </head>
+
+  <body>
+  
+  {% block content %}
+  
+  <!-- PAGE | PRIVACY -->
+      <div class="pages page-privacy" id="page-privacy">
+        <div class="container">
+          <!-- Header -->
+          <header>
+            <h4 class="line-divider">imprint</h4>
+            <h1>IMPRINT</h1>
+            <!-- privacy and legal blah -->
+            </header>
+            <!-- End Header -->
+            
+            <div class="row">
+              <div class="span12 small">
+              <p><small>
+The following provides mandatory data concerning the provider of this website as required by German law.</br></br>
+
+Provider</br></br>
+
+Michael Winkelmann & Brook Cronin</br></br>
+
+Address</br></br>
+
+CR8TR GmbH</br></br>
+Turmstrasse 70</br>
+10551 Berlin</br>
+
+
+
+Copyright</br></br>
+
+The layout, graphics employed and any other contents on the homepage of the Omnidome internet site are protected by copyright law.</br></br>
+Omnidome is a software developed by CR8TR GmbH iG. Written by Michael Winkelmann with design by Brook Cronin. Copyright © All rights reserved 2015.
+</p>
+</div>
+</div>
+    {% include footer3 %}
+      {% endblock %}
+
+</body>       
+</html>

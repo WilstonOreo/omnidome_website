@@ -1,0 +1,38 @@
+---
+name: Videos
+description: A description of the content type for the editors
+slug: videos
+label_field_name: title
+order_by: manually
+order_direction: asc
+fields:
+- title:
+    label: name of the video
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- vimeo:
+    label: Vimeo
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- caption:
+    label: Caption
+    type: string
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+- project:
+    label: Projects
+    type: belongs_to
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+    class_name: projects
+    ui_enabled: true
