@@ -10,7 +10,7 @@
     text-align: center;
     //background: @grayDarker url(/images/welcome.jpg) 50% 0 repeat fixed;
     background: @cr8_colour;
-    .background-size(cover);
+    //.background-size(cover);
 
     .logo {
         .transition(all 0.5s ease-in-out);
@@ -47,36 +47,6 @@
             .rotate(-360deg);
         }
 
-    }
-    #welcome-messages {
-        margin-top: 35px;
-        width: 100%;
-        overflow: hidden;
-        position: relative;
-        z-index: 123123;
-
-        h1 {
-            margin: 0px;
-            padding-top: 10px;
-            padding-bottom: 5px;
-        }
-
-        ul, li {
-            margin: 0px;
-            padding: 0px;
-        }
-
-        &.divider:after {
-            margin: auto auto 14px;
-            padding-bottom: 5px;
-        }
-    }
-    #welcome-messages + p {
-        font-weight: bold;
-        text-transform: uppercase;
-        margin-top: 10px;
-        font-weight: 800;
-        letter-spacing: 2px;
     }
 
     /* Social icons box */
