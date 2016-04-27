@@ -34,31 +34,12 @@ position: 101
 
   <body>
   {% include header2 %}
+
   {% block content %}
-
-
-  <!-- PAGE | PRIVACY -->
-      <div class="pages page-manual" id="page-manual">
-        <div class="container">
-          <!-- Header -->
-          <header>
-            <h4 class="line-divider">user guides</h4>
-            <h1>Omnidome User Manual & Tutorials</h1>
-            <!-- privacy and legal blah -->
-            </header>
-            <!-- End Header -->
-
-            <div class="row">
-              <div class="span12 small">
-              <p><small>
-
-  TABLE OF CONTENTS
-
-</p>
-</div>
-</div>
-    {% include footer3 %}
-      {% endblock %}
+  {% include manual-contents %}
+  {% include manual-intro %}
+  {% include footer %}
+  {% endblock %}
 
 </body>
 </html>

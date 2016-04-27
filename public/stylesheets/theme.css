@@ -452,7 +452,7 @@ h9 {
   padding-top: 24px;
 }
 /*
-*   PAGE | CLIENTS
+*   PAGE | USE CASES, SERVICES AND MANUALS
 */
 .page-usecases {
   width: 100%;
@@ -474,6 +474,20 @@ h10 {
   font-family: 'Flama-sc-Book', sans-serif;
   font-size: 28.5px;
   line-height: 38px;
+  margin: 0px;
+  color: #000;
+}
+h12 {
+  font-family: 'Flama-sc-Book', sans-serif;
+  font-size: 28.5px;
+  line-height: 57px;
+  margin: 0px;
+  color: #000;
+}
+.subsection {
+  font-family: 'Flama-sc-Light', sans-serif;
+  font-size: 19px;
+  line-height: 28.5px;
   margin: 0px;
   color: #000;
 }
@@ -536,8 +550,8 @@ h10 {
 }
 #navigation #main-menu li:hover a:after,
 #navigation #main-menu li.active a:after {
-  background-color: #bbbbbb;
-  bottom: -4px;
+  background-color: #fff;
+  bottom: -7px;
   content: "";
   height: 7px;
   left: 50%;
