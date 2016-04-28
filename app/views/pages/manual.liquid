@@ -26,9 +26,6 @@ position: 101
     <!-- STYLESHEETS -->
     {{ 'theme.css' | stylesheet_tag: 'screen' }}
 
-    <!-- GOOGLE WEB FONTS -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto:900' rel='stylesheet' type='text/css'>
 
   </head>
 
@@ -41,6 +38,13 @@ position: 101
   {% include manual-install %}
   {% include manual-projectors %}
   {% include manual-canvas %}
+  {% include manual-arrange %}
+  {% include manual-warp %}
+  {% include manual-blend %}
+  {% include manual-colour %}
+  {% include manual-export %}
+  {% include manual-live %}
+
   {% include footer %}
   {% endblock %}
 
