@@ -98,6 +98,30 @@ h9 {
   margin: 0px;
   color: #fff;
 }
+.button-custom2 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-family: 'Flama-sc-Book', sans-serif;
+  font-size: 28.5px;
+  line-height: 38px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #000000;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #666;
+}
+.button-custom2:hover {
+  background-color: #00f440;
+}
+.button-custom2:active {
+  background-color: #00f440;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 /*
 *   PAGE | FEATURES
 */
