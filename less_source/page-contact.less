@@ -5,12 +5,12 @@
 .page-contact {
     position: relative;
     padding-bottom: 50px;
-    
+
     .container {
         position: relative;
         z-index: 2;
     }
-    
+
     #map-image {
         position: absolute;
         top: 0;
@@ -18,43 +18,43 @@
         bottom: 0;
         right: 0;
         z-index: 1;
-        .opacity(10);
         overflow: hidden;
-        background: url(/images/pages/contact/map_bck.jpg);
+        background: @cr8_colour;
         background-size: cover;
     }
-    
+
     form {
         input[type='email'],
         input[type='text'] {
-            background-color: #CCCCCC;
-            color: #666666;
+            background-color: @white;
+            color: @black;
             font-size: 0.8em;
         }
         input[type='email']:focus,
         input[type='text']:focus {
             background-color: #fff;
         }
-        
+
         textarea {
-            background-color: #CCCCCC;
-            color: #666666;
+            background-color: @white;
+            color: @black;
             font-size: 0.8em;
         }
         textarea:focus {
             background-color: #fff;
         }
-        
+
         .btn {
             font-size: 11px;
             font-weight: bold;
             letter-spacing: 1px;
             text-transform: uppercase;
+            color: @black;
         }
-        
+
         .media {
             padding-top: 24px;
         }
     }
-    
+
 }

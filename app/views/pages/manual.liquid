@@ -1,0 +1,52 @@
+---
+title: Manual
+slug: manual
+listed: false
+published: true
+cache_strategy: none
+response_type: text/html
+position: 101
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- META DATA -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    {% seo %}
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ 'ico/apple-touch-icon-144-precomposed.png' | theme_image_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ 'ico/apple-touch-icon-72-precomposed.png' | theme_image_url }}">
+    <link rel="apple-touch-icon-precomposed" href="{{ 'ico/apple-touch-icon-57-precomposed.png' | theme_image_url }}">
+    <link rel="shortcut icon" href="{{ 'ico/favicon.png' | theme_image_url }}">
+
+    <!-- STYLESHEETS -->
+    {{ 'theme.css' | stylesheet_tag: 'screen' }}
+
+
+  </head>
+
+  <body>
+  {% include header2 %}
+
+  {% block content %}
+  {% include manual-contents %}
+  {% include manual-intro %}
+  {% include manual-install %}
+  {% include manual-projectors %}
+  {% include manual-canvas %}
+  {% include manual-arrange %}
+  {% include manual-warp %}
+  {% include manual-blend %}
+  {% include manual-colour %}
+  {% include manual-export %}
+  {% include manual-live %}
+
+  {% include footer %}
+  {% endblock %}
+
+</body>
+</html>

@@ -7,9 +7,9 @@
         .item {
             position: relative;
             display: inline-block;
-            color: #fff;
+            color: @cr8_colour;
             overflow: hidden;
-            
+
             &:hover .about-overlay {
                 .opacity(95);
                 left: 0;
@@ -24,10 +24,10 @@
             position: absolute;
             display: block;
             z-index: 4;
-            background-color: @blueGray;
+            background-color: @cr8_colour;
             .opacity(0);
             .transition(all 0.5s ease-in-out);
-            
+
             .social-icons {
                 left: 50%;
                 margin-left: -85px;
@@ -37,7 +37,7 @@
                 top: 50%;
                 width: 170px;
                 z-index: 6;
-                
+
                 a {
                     padding: 4px;
                 }
